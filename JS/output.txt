@@ -1,0 +1,19 @@
+Release Repair Machine
+Release Working Machine
+Seize Working Machine
+Seize Repair Machine
+Release Repair Machine
+Release Working Machine
+Seize Working Machine
+Seize Repair Machine
+Release Repair Machine
+Release Working Machine
+Seize Working Machine
+Seize Repair Machine
+Release Repair Machine
+Release Working Machine
+Seize Working Machine
+Seize Repair Machine
+Release Repair Machine
+Finish Simulation
+Detail was changed: 13 times
