@@ -1,2 +1,4 @@
-# IISM-GPSS-JS-Simulation
-Lab6. Simulation in GPPS &amp; JS
+# Лабораторная №6 ИИСМ
+## Вариант 6
+Реализации на GPSS и JavaScript
+
